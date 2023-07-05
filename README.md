@@ -4,7 +4,7 @@ This project enables control of the computer mouse cursor using hand gestures ca
 
 ## Team Information
 
-This project was developed by Team Leader Baba and Team Members Greeshma and Shiny, under the guidance of VC Ravi Babu.
+This project was developed by Team Leader Baba and Team Members Greeshma and Shiny,its a advancement of  VC Ravi Babu's project.
 
 ## Features
 
